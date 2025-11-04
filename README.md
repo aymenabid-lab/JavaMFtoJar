@@ -77,10 +77,18 @@ L’interface web de **JavaMFtoJar** s’ouvrira pour te permettre de charger et
 Pour éviter tout conflit entre dépendances, tu peux créer un environnement virtuel dédié :
 
 ```bash
+# 1. Créer un environnement virtuel
 python3 -m venv venv
+
+# 2. Activer l'environnement
 source venv/bin/activate
+
+# 3. Installer Flask dans cet environnement
 pip install flask
+
+# 4. Lancer ton application
 python app.py
+
 ```
 
 > Sous Windows :
