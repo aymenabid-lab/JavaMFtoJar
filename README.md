@@ -27,7 +27,7 @@ ouvre un terminal et exécute la commande suivante :
 
 ```bash
 pip3 install flask
-
+```
 
 > 💡 Si tu utilises un environnement virtuel (`venv`), active-le avant d’installer Flask.
 
