@@ -28,7 +28,16 @@ ouvre un terminal et exécute la commande suivante :
 ```bash
 pip3 install flask
 ```
+**Nb.** 
 
+ > 💡 Pré-requi: Python3 pipline
+ ```bash
+sudo apt install python3-pip
+```
+Pour l'erreur: 
+<img width="550" height="47" alt="image" src="https://github.com/user-attachments/assets/393ced9b-d4b3-4cb7-8e9c-1af229beb3fc" />
+
+ 
 > 💡 Si tu utilises un environnement virtuel (`venv`), active-le avant d’installer Flask.
 
 ---
