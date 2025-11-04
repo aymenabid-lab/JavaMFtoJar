@@ -153,6 +153,7 @@ Voici un aperçu de l’interface web de **JavaMFtoJar** (version Replit) :
 ---
 
 💡 une **capture d’écran simulée** propre (interface claire avec boutons “Choose file” et “Compile JAR”) et le téléchargement:
-<img width="690" height="916" alt="image" src="https://github.com/user-attachments/assets/a5b8ba10-2b13-49ff-befb-b7ef39e04840" />
 
 ```
+
+<img width="690" height="916" alt="image" src="https://github.com/user-attachments/assets/0ccb323f-58f7-48d2-a409-391df412bdbb" />
