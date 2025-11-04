@@ -87,7 +87,7 @@ source venv/bin/activate
 pip install flask
 
 # 4. Lancer ton application
-python app.py
+python3 app.py
 
 ```
 
