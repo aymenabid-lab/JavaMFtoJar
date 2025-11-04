@@ -152,8 +152,7 @@ Voici un aperçu de l’interface web de **JavaMFtoJar** (version Replit) :
 
 ---
 
-💡 Tu peux placer ton image `interface.jpg` à la racine du dépôt GitHub (même dossier que `README.md`),  
-et GitHub l’affichera automatiquement sous la section **“Aperçu de l’interface”**.  
+💡 une **capture d’écran simulée** propre (interface claire avec boutons “Choose file” et “Compile JAR”) et le téléchargement:
+<img width="690" height="916" alt="image" src="https://github.com/user-attachments/assets/a5b8ba10-2b13-49ff-befb-b7ef39e04840" />
 
-Souhaites-tu que je te crée aussi une **capture d’écran simulée** propre (interface claire avec boutons “Choose file” et “Compile JAR”) à inclure comme `interface.jpg` ?
 ```
