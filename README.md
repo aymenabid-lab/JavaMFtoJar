@@ -29,48 +29,6 @@ ouvre un terminal et exécute la commande suivante :
 pip3 install flask
 
 
-
-
-
-
-
-Parfait ✅ voici la **version finale complète du `README.md`**, avec tout ton contenu intégré, la description mise à jour, la section sur Flask, et l’ajout de la **capture d’écran `interface.jpg`** en bas.
-Tu peux copier-coller directement ce texte dans ton fichier **`README.md`** sur GitHub :
-
----
-
-````markdown
-# 🧩 JavaMFtoJar  
-### A web-based tool for compiling Java ME (J2ME) applications into `.jar` files
-
-[🔗 GitHub Repository](https://github.com/aymenabid-lab/JavaMFtoJar)
-
----
-
-## 🚀 Description
-
-**JavaMFtoJar** est une application web légère développée avec **Flask (Python)**  
-et déployée dans l’environnement de développement en ligne **[Replit – JarCompiler](https://replit.com/@aymenabid/JarCompiler)**.  
-
-Elle permet de **compiler des projets Java ME (J2ME)** directement depuis le navigateur,  
-en générant automatiquement un fichier `.jar` exécutable à partir des sources `.java` et du fichier `manifest.mf`.  
-
-Ce projet vise à moderniser et simplifier la compilation de MIDlets,  
-en offrant une solution web accessible sans installation locale de SDK Java ME.
-
----
-
-## ⚙️ Installation
-
-### 1️⃣ Installer Flask
-
-Si le message d’erreur indique que **Flask n’est pas installé**,  
-ouvre un terminal et exécute la commande suivante :
-
-```bash
-pip3 install flask
-````
-
 > 💡 Si tu utilises un environnement virtuel (`venv`), active-le avant d’installer Flask.
 
 ---
