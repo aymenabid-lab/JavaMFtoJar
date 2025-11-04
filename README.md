@@ -138,7 +138,8 @@ Vous êtes libre de l’utiliser, le modifier et le redistribuer à des fins éd
 
 Voici un aperçu de l’interface web de **JavaMFtoJar** (version Replit) :
 
-![Interface JavaMFtoJar](interface.jpg)
+<img width="954" height="682" alt="image" src="https://github.com/user-attachments/assets/d94be43c-0867-454d-b733-7b1830ee3e5b" />
+
 
 > *L’interface permet de choisir un fichier `.zip` contenant les sources du projet Java ME
 > et de générer automatiquement un fichier `.jar` exécutable directement téléchargeable.*
