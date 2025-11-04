@@ -99,6 +99,15 @@ python app.py
 
 ---
 
+## Installer Flask via apt (système)
+
+>Si tu veux installer Flask pour tout le système :
+>```bash
+>sudo apt update
+>sudo apt install python3-flask
+>
+>```
+
 ## 🧰 Technologies utilisées
 
 * 🐍 **Python 3.x**
