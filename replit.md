@@ -1,6 +1,6 @@
 # J2ME MIDlet Compiler
 ---
-> Dr. Aymen ABID- Master Professionnel en Ingénierie des Systèmes Embarqués - ESPIN - 2025/2026
+> Dr. Aymen ABID- 2025/2026
 ---
 
 ## Overview
