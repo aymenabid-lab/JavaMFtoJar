@@ -126,8 +126,6 @@ python3 app.py
 
 **Dr. Aymen ABID**
 📧 [aymen.abid@enis.tn](mailto:aymen.abid@enis.tn)
-🏫 ESPIN – École Supérieure Privée d'Ingénierie et de Technologies Numériques
-🧩 Master Ingénierie des Systèmes Embarqués – 2025/2026
 
 ---
 
@@ -142,7 +140,8 @@ Vous êtes libre de l’utiliser, le modifier et le redistribuer à des fins éd
 
 Voici un aperçu de l’interface web de **JavaMFtoJar** (version Replit) :
 
-<img width="954" height="682" alt="image" src="https://github.com/user-attachments/assets/d94be43c-0867-454d-b733-7b1830ee3e5b" />
+<img width="1114" height="719" alt="image" src="https://github.com/user-attachments/assets/22e582fc-c747-4753-b536-9dfa0573e49c" />
+
 
 
 > *L’interface permet de choisir un fichier `.zip` contenant les sources du projet Java ME
@@ -156,4 +155,8 @@ Voici un aperçu de l’interface web de **JavaMFtoJar** (version Replit) :
 
 ```
 
-<img width="690" height="916" alt="image" src="https://github.com/user-attachments/assets/0ccb323f-58f7-48d2-a409-391df412bdbb" />
+<img width="1115" height="722" alt="image" src="https://github.com/user-attachments/assets/9ba4a72f-2d88-499e-8de4-c016de12ec48" />
+
+<img width="1115" height="722" alt="image" src="https://github.com/user-attachments/assets/7247ecae-0e50-4fe7-86d7-d3e90c63de34" />
+
+
