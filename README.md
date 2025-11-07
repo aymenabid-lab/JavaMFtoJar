@@ -140,7 +140,8 @@ Vous êtes libre de l’utiliser, le modifier et le redistribuer à des fins éd
 
 Voici un aperçu de l’interface web de **JavaMFtoJar** (version Replit) :
 
-<img width="1114" height="719" alt="image" src="https://github.com/user-attachments/assets/22e582fc-c747-4753-b536-9dfa0573e49c" />
+<img width="1105" height="713" alt="image" src="https://github.com/user-attachments/assets/97b48583-eb8c-425e-bbcc-a3b29523e51f" />
+
 
 
 
@@ -155,8 +156,7 @@ Voici un aperçu de l’interface web de **JavaMFtoJar** (version Replit) :
 
 ```
 
-<img width="1115" height="722" alt="image" src="https://github.com/user-attachments/assets/9ba4a72f-2d88-499e-8de4-c016de12ec48" />
+<img width="1105" height="713" alt="image" src="https://github.com/user-attachments/assets/2cbf485c-a9fe-4098-931d-49ed3f40847e" />
 
-<img width="1115" height="722" alt="image" src="https://github.com/user-attachments/assets/7247ecae-0e50-4fe7-86d7-d3e90c63de34" />
 
 
